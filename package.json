@@ -1,0 +1,12 @@
+{
+  "name": "kirby-createddate",
+  "description": "Kirby plugin for setting created dates",
+  "author": "Jon Gacnik <https://github.com/jongacnik>",
+  "repository": {
+     "type": "git",
+     "url": "https://github.com/jongacnik/kirby-createddate"
+  },
+  "version": "1.0.0",
+  "type": "kirby-plugin",
+  "license": "MIT"
+}
